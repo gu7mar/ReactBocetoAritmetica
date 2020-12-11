@@ -1,0 +1,71 @@
+.vertical{
+    display: flex;
+    margin-left: 1rem;
+}
+.linear{
+    margin-bottom: 6px;
+    object-position: initial;
+    margin-left: 18.61rem;
+    margin-top: -1.5rem;
+}
+.item{
+    margin-right: 2rem;
+    max-width: 3rem;
+    border: 1px solid #aaa;
+    height: 2rem;
+}
+.ghost{
+    margin-right: 2rem;
+    max-width: 3rem;
+    height: 2rem;
+}
+.respuestas1{
+    display:  flex;
+    width: 40rem; 
+    margin-bottom: 2rem;
+    margin-left: 0rem;
+    margin-right: 6rem;
+}
+.line1{
+    display:  flex;
+    width: 40rem; 
+    margin-bottom: 2rem;
+    margin-left: 0rem;
+    margin-right: 6rem;
+    margin-top: -1rem;
+}
+.respuestas2{
+    display:  flex;
+    width: 40rem; 
+    margin-bottom: 2rem;
+    margin-left: 5.5rem;
+    margin-right: 6rem;
+}
+.respuestas2a{
+    display:  flex;
+    width: 40rem; 
+    margin-bottom: 2rem;
+    margin-left: 0rem;
+    margin-right: 6rem;
+}
+.line2{
+    display:  flex;
+    width: 40rem; 
+    margin-bottom: 0rem;
+    margin-left: 5.5rem;
+    margin-right: 6rem;
+    margin-top: -1rem;
+}
+.respuestas3{
+    display:  flex;
+    width: 40rem; 
+    margin-bottom: 2rem;
+    margin-left: 11rem;
+    margin-right: 6rem;  
+}
+.Result{
+    display:  flex;
+    margin-left: 12rem;
+    width: 30rem; 
+
+}

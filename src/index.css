@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.form-control label,
+.form-control input{
+    width: 100%;
+    display: flex;
+}
+.form-control{
+    margin-bottom: 1rem;
+}
+.form-control label{
+    margin-bottom: .5rem;
+}
+.form-actions button,
+.btn{
+    background: #521751;
+    font: inherit;
+    border: 1px solid #521751;
+    border-radius: 3px;
+    padding: 0.25rem 1rem;
+    margin-right: 1rem;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.26);
+    color: white;
+    cursor: pointer;
+}
+.especial{
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  float: right;
+  background: #521751;
+  font: inherit;
+  border: 1px solid #521751;
+  border-radius: 3px;
+  padding: 0.25rem 1rem;
+  margin-right: 1rem;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.26);
+  color: white;
+  cursor: pointer;
+}
+.form-actions button:hover,
+.form-actions button:active,
+.btn:hover,
+.btn:active{
+    background: #3b103b;
+    border-color: #3b103b;
+}
+
+
+.card{
+  width: 20rem;
+}
+
+.card:hover{
+  box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253)!important;
+}
+
+.personal{
+  padding: 1rem 0rem;
+}
+
+.footer{
+  position: inherit;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 5rem;
+  background:#521751;
+  display: flex;
+  align-items: center;
+  
+}

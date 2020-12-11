@@ -1,0 +1,66 @@
+
+.multiplication-form{
+    
+    width: 25rem;
+    max-width: 80%;
+    margin: 5rem auto;
+}
+.base label,
+.base input{
+    width: 100%;
+    display: flex;
+}
+.base{
+    margin-bottom: 1rem;
+    
+}
+.base label{
+    margin-bottom: .5rem;
+}
+/*.signin-form{
+    
+    max-width: 80%;
+    margin: 5rem auto;
+}*/
+.verticala{
+    display: flex;
+    margin-left: 12rem;
+
+}
+.linear1a{
+        padding-bottom: 3px;
+    object-position: initial;
+    margin-left: 12rem;
+
+}
+.linear2{
+    padding-bottom: 3px;
+    object-position: initial;
+}
+.respuestas1a{
+    display:  flex;
+    width: 28rem; 
+    margin-bottom: 2rem;
+    margin-left: 6rem;
+
+}
+.respuestas2a{
+    display:  flex;
+    width: 28rem; 
+    margin-bottom: 1rem;
+}
+.respuestas3a{
+    display:  flex;
+    width: 35rem; 
+    margin-bottom: 1rem;
+}
+.item{
+    margin-right: 2rem;
+    max-width: 3rem;
+    border: 1px solid #aaa;
+    height: 2rem;
+}
+.iteml{
+    margin-right: 5rem;
+
+}
